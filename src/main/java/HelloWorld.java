@@ -16,13 +16,13 @@ public class HelloWorld {
     private int number;
 
     public static void main (String[] agrs) {
-        System.out.println("Xin moi nhap a: ");
+        System.out.println("Please input a: ");
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
-        System.out.println("Xin moi nhap b: ");
+        System.out.println("Please input b: ");
         Scanner sc1 = new Scanner(System.in);
         int b = sc1.nextInt();
-        System.out.println("Xin moi nhap c: ");
+        System.out.println("Please input c: ");
         Scanner sc2 = new Scanner(System.in);
         int c = sc2.nextInt();
 
